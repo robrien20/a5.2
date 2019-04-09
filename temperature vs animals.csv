@@ -1,9 +1,9 @@
 Animal,1.5,2,4.5
-Invertebrates,6%,18%,68%
-Vertebrates,4%,8%,44%
-Plants,8%,16%,67%
-Insects,6%,18%,67%
-Mammals,4%,8%,41%
-Birds,2%,6%,40%
-Butterflies & moths,4%,10%,58%
-Dragonflies & damselflies,1%,2%,21%
+Invertebrates,6,18,68
+Vertebrates,4,8,44
+Plants,8,16,67
+Insects,6,18,67
+Mammals,4,8,41
+Birds,2,6,40
+Butterflies & moths,4,10,58
+Dragonflies & damselflies,1,2,21
